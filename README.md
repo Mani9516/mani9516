@@ -6,32 +6,39 @@
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" height="22px"> </h2>
 
-<!-- Skill icons here -->
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=python&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=html&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=c&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
-<a href="https://www.example.com/ai-icon-link">
-  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2721/2721261.png">
+<!-- Skill icons here with tooltips and hover effects -->
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=python&sort=" title="Python">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
 </a>
-<a href="https://www.example.com/ml-icon-link">
-  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2103/2103670.png">
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=html&sort=" title="HTML">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
 </a>
-<a href="https://www.example.com/dl-icon-link">
-  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/3771/3771517.png">
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort=" title="JavaScript">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
 </a>
-<a href="https://www.example.com/neural-network-icon-link">
-  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2474/2474687.png">
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=c&sort=" title="C Language">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
 </a>
-<a href="https://www.example.com/data-science-icon-link">
-  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/4149/4149650.png">
+<a href="https://www.example.com/ai-icon-link" title="AI">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2721/2721261.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://www.example.com/ml-icon-link" title="Machine Learning">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2103/2103670.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://www.example.com/dl-icon-link" title="Deep Learning">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/3771/3771517.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://www.example.com/neural-network-icon-link" title="Neural Networks">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2474/2474687.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://www.example.com/data-science-icon-link" title="Data Science">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/4149/4149650.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
 </a>
 <br><br>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani9516&show_icons=true&locale=en&theme=radical"
-" alt="Mani9516" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani9516&show_icons=true&locale=en&theme=radical" alt="Mani9516" />
 </p>
 
 <!-- GitHub Streak Stats -->
@@ -50,7 +57,7 @@
 </p>
 
 <!-- Snake Animation -->
-  <p align="center">
+<p align="center">
   <img src="https://github.com/disha1202/disha1202/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
