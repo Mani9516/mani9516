@@ -53,10 +53,10 @@
   <a href="https://www.linkedin.com/in/mani-chourasiya-119433238/" target="_blank">
     <img align="center" alt="Mani Chourasiya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/sphnix_23" target="_blank">
     <img align="center" alt="Mani Chourasiya | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.email@manichourasiya9516@gmail.com">
     <img align="center" alt="Mani Chourasiya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 </div>
