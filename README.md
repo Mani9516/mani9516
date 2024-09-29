@@ -26,9 +26,6 @@
 <a href="https://www.example.com/data-science-icon-link">
   <img width="32px" src="https://cdn-icons-png.flaticon.com/512/4149/4149650.png">
 </a>
-<a href="https://www.example.com/robotics-icon-link">
-  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2149/2149057.png">
-</a>
 <br><br>
 
 <!-- GitHub Stats -->
