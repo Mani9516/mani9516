@@ -1,22 +1,16 @@
 <h1> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 <p align='center'></p>
 
-<div size='20px'> Hi! I'm Mani Chourasiya, a final-year student pursuing a degree in Artificial Intelligence and Data Science.😊
+<div size='20px'> Hi! I’m Mani Chourasiya, a final-year student currently pursuing a degree in Artificial Intelligence and Data Science. 😊
 </div>
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" height="22px"> </h2>
 
 <!-- Skill icons here -->
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=python&sort="> <img width="32px"> </a>
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=python&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=html&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=css&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=artificial-intelligence&sort=">
-  <img width="32px" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Artificial Intelligence"></a>
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=machine-learning&sort=">
-  <img width="32px" src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning"></a>
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=deep-learning&sort=">
-  <img width="32px" src="https://img.icons8.com/color/48/000000/deep-learning.png" alt="Deep Learning"></a>
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=c&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
 
 <br><br>
 
@@ -40,31 +34,29 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mani9516&theme=radical" />
 </p>
 
-
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/Mani9516/Mani9516/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 <!-- Profile Visitor Counter -->
-<div align=center>
+<div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/Mani9516/count.svg" />
+  </p>
 </div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Mani9516/count.svg" />  
-</p>
-   
-  
-  
 
 <!-- Social Links -->
 <div align="center">
   <h3><b>😄 Connect With Me</b></h3>
   <a href="https://www.linkedin.com/in/mani-chourasiya-119433238/" target="_blank">
-     <img align="center" alt="Disha Talreja | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/>
+    <img align="center" alt="Mani Chourasiya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/sphnix_23/" target="_blank">
+  <a href="https://www.instagram.com/yourprofile" target="_blank">
     <img align="center" alt="Mani Chourasiya | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:your-51110304443@piemr.edu.in">
+  <a href="mailto:your.email@example.com">
     <img align="center" alt="Mani Chourasiya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 </div>
