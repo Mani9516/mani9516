@@ -53,7 +53,8 @@
 <div align="center">
   <h3><b>😄 Connect With Me</b></h3>
   <a href="https://www.linkedin.com/in/mani-chourasiya-119433238/" target="_blank">
-     <img align="center" alt="Disha Talreja | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+     <img align="center" alt="Disha Talreja | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/>
+  </a>
   <a href="https://www.instagram.com/your-instagram-handle/" target="_blank">
     <img align="center" alt="Mani Chourasiya | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
