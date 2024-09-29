@@ -30,7 +30,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani9516&show_icons=true&locale=en&theme=radical" alt="Mani9516" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani9516&show_icons=true&locale=en&theme=radical"
+" alt="Mani9516" />
 </p>
 
 <!-- GitHub Streak Stats -->
