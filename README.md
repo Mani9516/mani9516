@@ -35,8 +35,8 @@
 </p>
 
 <!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/Mani9516/Mani9516/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <p align="center">
+  <img src="https://github.com/disha1202/disha1202/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <!-- Profile Visitor Counter -->
