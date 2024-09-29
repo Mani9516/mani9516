@@ -11,6 +11,25 @@
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=html&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=css&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
+<!-- Artificial Intelligence Icon -->
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=artificial-intelligence&sort=">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Artificial Intelligence">
+</a>
+
+<!-- Machine Learning Icon -->
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=machine-learning&sort=">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning">
+</a>
+
+<!-- Deep Learning Icon -->
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=deep-learning&sort=">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/deep-learning.png" alt="Deep Learning">
+</a>
+
+<!-- Example of CSS Icon -->
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=css&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS">
+</a>
 
 <br><br>
 
