@@ -26,11 +26,6 @@
   <img width="32px" src="https://img.icons8.com/color/48/000000/deep-learning.png" alt="Deep Learning">
 </a>
 
-<!-- Example of CSS Icon -->
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=css&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS">
-</a>
-
 <br><br>
 
 <!-- GitHub Stats -->
