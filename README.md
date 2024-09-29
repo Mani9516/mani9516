@@ -11,11 +11,8 @@
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=html&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=c&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
-<a href="https://pngtree.com/freepng/adobe-illustrator-icon-logo_3571106.html">
-  <img width="32px" src="https://pngtree-adobe-illustrator-icon-logo-png-image_3571106.jpg"> 
-</a>
-
-
+<a href="https://images.app.goo.gl/URruZnJzgQFBfnyw7">
+  <img width="32px" src="https://images.app.goo.gl/URruZnJzgQFBfnyw7"> </a>
 <a href="https://your-ml-link-here.com">
   <img width="32px" src="https://your-image-host-link/ml-logo.png" alt="ML Icon">
 </a>
