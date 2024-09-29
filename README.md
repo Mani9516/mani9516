@@ -54,11 +54,11 @@
   <h3><b>😄 Connect With Me</b></h3>
   <a href="https://www.linkedin.com/in/mani-chourasiya-119433238/" target="_blank">
      <img align="center" alt="Disha Talreja | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/>
-  </a>
-  <a href="https://www.instagram.com/your-instagram-handle/" target="_blank">
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sphnix_23/" target="_blank">
     <img align="center" alt="Mani Chourasiya | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-51110304443@piemr.edu.in">
     <img align="center" alt="Mani Chourasiya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 </div>
