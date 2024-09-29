@@ -12,7 +12,7 @@
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=c&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
 <a href="https://pngtree.com/freepng/adobe-illustrator-icon-logo_3571106.html">
-  <img width="32px" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-adobe-illustrator-icon-logo-png-image_3571106.jpg"> 
+  <img width="32px" src="https://pngtree-adobe-illustrator-icon-logo-png-image_3571106.jpg"> 
 </a>
 
 
