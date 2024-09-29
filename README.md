@@ -12,7 +12,7 @@
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=c&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
 <a href="https://pngtree.com/freepng/letter-ai-logo-design_3592574.html">
-  <img width="32px" src="https://pngtree.com/freepng/letter-ai-logo-design_3592574.html" alt="AI Icon">
+  <img width="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fai-logo&psig=AOvVaw2jCss4gmo_5pg5nocjJvzb&ust=1727731055383000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCwnfGJ6YgDFQAAAAAdAAAAABAJ" alt="AI Icon">
 </a>
 <a href="https://your-ml-link-here.com">
   <img width="32px" src="https://your-image-host-link/ml-logo.png" alt="ML Icon">
