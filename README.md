@@ -11,17 +11,24 @@
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=html&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=c&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
-<a href="https://images.app.goo.gl/URruZnJzgQFBfnyw7">
-  <img width="32px" src="https://images.app.goo.gl/URruZnJzgQFBfnyw7"> </a>
-<a href="https://your-ml-link-here.com">
-  <img width="32px" src="https://your-image-host-link/ml-logo.png" alt="ML Icon">
+<a href="https://www.example.com/ai-icon-link">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2721/2721261.png">
 </a>
-<a href="https://your-dl-link-here.com">
-  <img width="32px" src="https://your-image-host-link/dl-logo.png" alt="DL Icon">
+<a href="https://www.example.com/ml-icon-link">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2103/2103670.png">
 </a>
-
-
-
+<a href="https://www.example.com/dl-icon-link">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/3771/3771517.png">
+</a>
+<a href="https://www.example.com/neural-network-icon-link">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2474/2474687.png">
+</a>
+<a href="https://www.example.com/data-science-icon-link">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/4149/4149650.png">
+</a>
+<a href="https://www.example.com/robotics-icon-link">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2149/2149057.png">
+</a>
 <br><br>
 
 <!-- GitHub Stats -->
