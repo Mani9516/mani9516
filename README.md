@@ -11,6 +11,17 @@
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=html&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=c&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
+<a href="https://pngtree.com/freepng/letter-ai-logo-design_3592574.html">
+  <img width="32px" src="https://pngtree.com/freepng/letter-ai-logo-design_3592574.html" alt="AI Icon">
+</a>
+<a href="https://your-ml-link-here.com">
+  <img width="32px" src="https://your-image-host-link/ml-logo.png" alt="ML Icon">
+</a>
+<a href="https://your-dl-link-here.com">
+  <img width="32px" src="https://your-image-host-link/dl-logo.png" alt="DL Icon">
+</a>
+
+
 
 <br><br>
 
