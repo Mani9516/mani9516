@@ -118,16 +118,6 @@
 </a> 
 <a href="https://www.codechef.com/users/mani2310t" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/codechef/codechef-icon.svg" alt="CodeChef" width="40" height="40"/> CodeChef Profile
-</a> <br>
-<a href="http://www.cocubes.com/student/manichourasiya" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/cocubes/cocubes-icon.svg" alt="Cocubes" width="40" height="40"/> Cocubes Profile
-</a> <br>
-<a href="https://profile.codingninjas.com/7624ee56-a021-406c-8346-a2e9ed0f98d3" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/coding_ninjas/coding_ninjas-icon.svg" alt="Coding Ninjas" width="40" height="40"/> Coding Ninjas Profile
-</a> <br>
-<a href="https://auth.geeksforgeeks.org/user/user_yl41yau8l24" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/geeksforgeeks/geeksforgeeks-icon.svg" alt="GeeksforGeeks" width="40" height="40"/> GeeksforGeeks Profile
-</a> <br>
 <a href="https://infyspringboard.onwingspan.com/web/en/app/profile/dashboard" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/infosys/infosys-icon.svg" alt="Infosys Springboard" width="40" height="40"/> Infosys Springboard Profile
 </a> <br>
