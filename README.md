@@ -64,11 +64,8 @@
 <a href="https://infyspringboard.onwingspan.com/web/en/app/profile/dashboard" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/infosys/infosys-icon.svg" alt="Infosys Springboard" width="40" height="40"/> Infosys Springboard Profile
 </a> <br>
-<a href="https://www.linkedin.com/in/mani-chourasiya-119433238" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> LinkedIn Profile
-</a> <br>
 <a href="https://github.com/Mani9516" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> GitHub Profile
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
 </a>
  </p>
 <br><br>
