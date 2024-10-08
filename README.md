@@ -46,9 +46,6 @@
 <a href="https://skillshop.exceedlms.com/profiles/02c3c543a4444756a06e731e62acc6a5" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Skillshop" width="40" height="40"/> Skillshop Profile
 </a> <br>
-<a href="https://www.hackerrank.com/h51110304443t" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg" alt="HackerRank" width="40" height="40"/> HackerRank Profile
-</a> <br>
 <a href="https://www.codechef.com/users/mani2310t" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/codechef/codechef-icon.svg" alt="CodeChef" width="40" height="40"/> CodeChef Profile
 </a> <br>
