@@ -1,149 +1,127 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mani Chourasiya's Data Science Portfolio</title>
-  <style>
-    /* Body styling for dark mode with neon theme */
-    body {
-      background-color: #1a1a1a;
-      color: #f0f0f0;
-      font-family: 'Arial', sans-serif;
-    }
+<h1> Hello World! , I'm Mani Chourasiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
+<p align='center'></p>
+<br>
+<div size='20px'> Hi! I’m Mani Chourasiya, a final-year student currently pursuing a degree in Artificial Intelligence and Data Science. A Passionate AI and DS Enthusiast ,| Coding and Collaborating on GitHub | Exploring My Path Through Continuous Learning 😊
+</div>
+</br>
 
-    h1, h2 {
-      color: #00FFAB; /* Neon green */
-      text-align: center;
-    }
+<!-- Skill icons here with tooltips and hover effects -->
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=python&sort=" title="Python">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=html&sort=" title="HTML">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort=" title="JavaScript">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=c&sort=" title="C Language">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://www.example.com/ai-icon-link" title="AI">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2721/2721261.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://www.example.com/ml-icon-link" title="Machine Learning">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2103/2103670.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://www.example.com/dl-icon-link" title="Deep Learning">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/3771/3771517.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://www.example.com/neural-network-icon-link" title="Neural Networks">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/2474/2474687.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://www.example.com/data-science-icon-link" title="Data Science">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/4149/4149650.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+</a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br><br>
 
-    h1 img {
-      vertical-align: middle;
-    }
+- 🔭 I’m currently working as an Data Science intern **YUMS ADVERTISEMENT**
 
-    /* Centering all content with padding */
-    .content {
-      padding: 20px;
-      text-align: center;
-    }
+- 🌱 I’m currently learning **Deep Learning Models**
 
-    /* Skill icons container */
-    .skills {
-      margin: 20px 0;
-    }
+- 👨‍💻 All of my projects are available at [https://github.com/mani9516](https://github.com/mani9516)
 
-    /* Hover effect and animations for icons */
-    .skills a img {
-      width: 50px;
-      margin: 10px;
-      transition: transform 0.5s ease, box-shadow 0.5s ease;
-    }
+- 💬 Ask me about **ML, DL, Power BI, Computer Vision, Neural Networks**
 
-    .skills a img:hover {
-      transform: scale(1.2) rotate(10deg);
-      box-shadow: 0 0 15px #00FFAB;
-    }
+- 📫 How to reach me **manichourasiya9516@gmail.com**
 
-    /* Social icons container */
-    .social-icons img {
-      width: 40px;
-      margin: 0 15px;
-      transition: transform 0.4s ease-in-out;
-    }
+- 🚀 See my work at [https://mani-chourasiya-sq8o.b12sites.com/](https://mani-chourasiya-sq8o.b12sites.com/)
 
-    .social-icons img:hover {
-      transform: translateY(-10px);
-      filter: brightness(1.5);
-    }
+-  😎 Head Placement Cell Coordinator At **PIEMR Indore**.
 
-    /* Profile visitor count style */
-    .visitor-counter {
-      margin-top: 20px;
-      font-size: 18px;
-      color: #FFD700;
-      animation: pulse 2s infinite;
-    }
+<p align="left">
+<!-- GitHub Stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani9516&show_icons=true&locale=en&theme=radical" alt="Mani9516" />
+</p>
 
-    /* Animation for glowing text */
-    @keyframes pulse {
-      0% { text-shadow: 0 0 5px #FFD700, 0 0 10px #FFD700; }
-      50% { text-shadow: 0 0 20px #FFD700, 0 0 30px #FFD700; }
-      100% { text-shadow: 0 0 5px #FFD700, 0 0 10px #FFD700; }
-    }
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mani9516&theme=radical" alt="Mani9516" />
+</p>
 
-    /* Section styling */
-    .github-stats, .projects {
-      margin: 30px 0;
-    }
+<!-- Language Stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mani9516&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" />
+</p>
 
-    /* Neon border animation for data science look */
-    .github-stats img, .projects img {
-      border-radius: 15px;
-      border: 2px solid #00FFAB;
-      transition: box-shadow 0.5s ease-in-out;
-    }
+<!-- Profile Summary -->
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mani9516&theme=radical" />
+</p>
 
-    .github-stats img:hover, .projects img:hover {
-      box-shadow: 0 0 25px #00FFAB;
-    }
-  </style>
-</head>
-<body>
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/disha1202/disha1202/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
-  <!-- Introduction -->
-  <div class="content">
-    <h1>Hello World! I'm Mani Chourasiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
-    <p>Hi! I’m Mani Chourasiya, a final-year student currently pursuing a degree in Artificial Intelligence and Data Science. I'm passionate about AI, coding, and making the most out of every GitHub project! 💻✨</p>
-  </div>
+<!-- Profile Visitor Counter -->
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/Mani9516/count.svg" />
+  </p>
+</div>
 
-  <!-- Skill Icons with Animation -->
-  <div class="skills">
-    <h2>Skills</h2>
-    <a href="https://github.com/mani-chourasiya?tab=repositories&q=&type=&language=python&sort=" title="Python">
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
-    </a>
-    <a href="https://github.com/mani-chourasiya?tab=repositories&q=&type=&language=html&sort=" title="HTML">
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML">
-    </a>
-    <a href="https://github.com/mani-chourasiya?tab=repositories&q=&type=&language=javascript&sort=" title="JavaScript">
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript">
-    </a>
-    <!-- Add more skill icons as needed -->
-  </div>
+<!-- Social Links -->
+<div align="center">
+  <h3><b>😄 Connect With Me</b></h3>
+  <a href="https://www.linkedin.com/in/mani-chourasiya-119433238/" target="_blank">
+    <img align="center" alt="Mani Chourasiya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sphnix_23" target="_blank">
+    <img align="center" alt="Mani Chourasiya | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:your.email@manichourasiya9516@gmail.com">
+    <img align="center" alt="Mani Chourasiya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> 
+  <a href="https://www.kaggle.com/manichourasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/manichourasiya" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/h51110304443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/h51110304443" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Mani9516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Mani9516/" height="30" width="40" /> 
+  </a>
+<a href="https://discord.gg/manichourasiya123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manichourasiya123" height="30" width="40" /></a>
+<a href="https://learn.microsoft.com/en-in/users/manichourasiya-6868/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Learn" width="40" height="30"/>
+</a> 
+<a href="https://googlecloud.qwiklabs.com/public_profiles/2926c865-a061-4695-8712-47507315b3a8" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Qwiklabs" width="40" height="30"/>
+</a> 
+<a href="https://developers.google.com/profile/u/105983943752299875545" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developers" width="40" height="30"/> 
+</a> 
+<a href="https://skillshop.exceedlms.com/profiles/02c3c543a4444756a06e731e62acc6a5" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Skillshop" width="40" height="30"/>
+</a> 
+<a href="https://github.com/Mani9516" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="30"/>
+</a>
+ </p>
+<br><br>
+</div>
 
-  <!-- Social Links with Animations -->
-  <div class="social-icons center">
-    <a href="https://www.linkedin.com/in/mani-chourasiya-119433238">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/mani-chourasiya">
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
-    </a>
-    <a href="https://twitter.com/yourusername">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter">
-    </a>
-  </div>
 
-  <!-- GitHub Stats -->
-  <div class="github-stats center">
-    <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=mani-chourasiya&show_icons=true&theme=radical" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani-chourasiya&theme=dark" alt="GitHub Streak Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani-chourasiya&layout=compact&theme=radical" alt="Top Languages">
-  </div>
 
-  <!-- Projects Section -->
-  <div class="projects center">
-    <h2>Recent Projects</h2>
-    <img src="project_image_1.png" alt="Project 1">
-    <img src="project_image_2.png" alt="Project 2">
-    <!-- Add more projects as needed -->
-  </div>
-
-  <!-- Profile Visitor Counter -->
-  <div class="visitor-counter center">
-    <p>Profile Visitor Count: <img src="https://profile-counter.glitch.me/mani-chourasiya/count.svg" alt="Visitor Count"></p>
-  </div>
-
-</body>
-</html>
+ give this code best animation and Data Scientist looks
