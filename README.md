@@ -47,6 +47,8 @@
 
 - 📫 How to reach me **manichourasiya9516@gmail.com**
 
+-  😎 Head Placement Cell Coordinator At **PIEMR Indore**.
+
 <p align="left">
 <!-- GitHub Stats -->
 <p align="center">
@@ -95,11 +97,11 @@
   </a>
   
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khyati-verma-220762278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khyati-verma-220762278/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/khyatiiverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/khyatiiverma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/khyativerma942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/khyativerma942" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/khyati_verma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/khyati_verma/" height="30" width="40" /></a>
-<a href="https://discord.gg/khyativerma123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khyativerma123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mani-chourasiya-119433238//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khyati-verma-220762278/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/manichourasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/khyatiiverma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/h51110304443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/khyativerma942" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Mani9516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/khyati_verma/" height="30" width="40" /></a>
+<a href="https://discord.gg/manichourasiya123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khyativerma123" height="30" width="40" /></a>
 </p>
 
 </div>
