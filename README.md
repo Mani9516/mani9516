@@ -104,19 +104,19 @@
   </a>
 <a href="https://discord.gg/manichourasiya123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manichourasiya123" height="30" width="40" /></a>
 <a href="https://learn.microsoft.com/en-in/users/manichourasiya-6868/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Learn" width="40" height="30"/>
 </a> 
 <a href="https://googlecloud.qwiklabs.com/public_profiles/2926c865-a061-4695-8712-47507315b3a8" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Qwiklabs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Qwiklabs" width="40" height="30"/>
 </a> 
 <a href="https://developers.google.com/profile/u/105983943752299875545" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developers" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developers" width="40" height="30"/> 
 </a> 
 <a href="https://skillshop.exceedlms.com/profiles/02c3c543a4444756a06e731e62acc6a5" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Skillshop" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Skillshop" width="40" height="30"/>
 </a> 
 <a href="https://github.com/Mani9516" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="30"/>
 </a>
  </p>
 <br><br>
