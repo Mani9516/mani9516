@@ -1,7 +1,7 @@
 <h1> Hello World! , I'm Mani Chourasiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 <p align='center'></p>
 <br>
-<div size='20px'> Hi! I’m Mani Chourasiya, a final-year student currently pursuing a degree in Artificial Intelligence and Data Science. A Passionate AI and DS Enthusiast ,| Coding and Collaborating on GitHub | Exploring My Path Through Continuous Learning 😊
+<div size='20px'> Hi! I’m Mani Chourasiya, a final-year student currently pursuing a degree in Artificial Intelligence and Data Science. A Passionate AI and DS Enthusiast ,| Coding and Collaborating on GitHub | Exploring My Path Through Continuous Learning😊
 </div>
 </br>
 
