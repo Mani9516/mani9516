@@ -123,5 +123,3 @@
 </div>
 
 
-
- give this code best animation and Data Scientist looks
