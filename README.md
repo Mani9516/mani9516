@@ -33,38 +33,7 @@
 <a href="https://www.example.com/data-science-icon-link" title="Data Science">
   <img width="32px" src="https://cdn-icons-png.flaticon.com/512/4149/4149650.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
 </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-in/users/manichourasiya-6868/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Learn" width="40" height="40"/> Microsoft Learn Profile
-</a> <br>
-<a href="https://googlecloud.qwiklabs.com/public_profiles/2926c865-a061-4695-8712-47507315b3a8" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Qwiklabs" width="40" height="40"/> Qwiklabs Profile
-</a> <br>
-<a href="https://developers.google.com/profile/u/105983943752299875545" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developers" width="40" height="40"/> Google Developers Profile
-</a> <br>
-<a href="https://skillshop.exceedlms.com/profiles/02c3c543a4444756a06e731e62acc6a5" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Skillshop" width="40" height="40"/> Skillshop Profile
-</a> <br>
-<a href="https://www.codechef.com/users/mani2310t" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/codechef/codechef-icon.svg" alt="CodeChef" width="40" height="40"/> CodeChef Profile
-</a> <br>
-<a href="http://www.cocubes.com/student/manichourasiya" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/cocubes/cocubes-icon.svg" alt="Cocubes" width="40" height="40"/> Cocubes Profile
-</a> <br>
-<a href="https://profile.codingninjas.com/7624ee56-a021-406c-8346-a2e9ed0f98d3" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/coding_ninjas/coding_ninjas-icon.svg" alt="Coding Ninjas" width="40" height="40"/> Coding Ninjas Profile
-</a> <br>
-<a href="https://auth.geeksforgeeks.org/user/user_yl41yau8l24" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/geeksforgeeks/geeksforgeeks-icon.svg" alt="GeeksforGeeks" width="40" height="40"/> GeeksforGeeks Profile
-</a> <br>
-<a href="https://infyspringboard.onwingspan.com/web/en/app/profile/dashboard" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/infosys/infosys-icon.svg" alt="Infosys Springboard" width="40" height="40"/> Infosys Springboard Profile
-</a> <br>
-<a href="https://github.com/Mani9516" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-</a>
- </p>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <br><br>
 
 - 🔭 I’m currently working as an Data Science intern **YUMS ADVERTISEMENT**
@@ -135,7 +104,38 @@
   </a>
 <a href="https://discord.gg/manichourasiya123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manichourasiya123" height="30" width="40" /></a>
 </p>
-
+<a href="https://learn.microsoft.com/en-in/users/manichourasiya-6868/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Learn" width="40" height="40"/> Microsoft Learn Profile
+</a> <br>
+<a href="https://googlecloud.qwiklabs.com/public_profiles/2926c865-a061-4695-8712-47507315b3a8" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Qwiklabs" width="40" height="40"/> Qwiklabs Profile
+</a> <br>
+<a href="https://developers.google.com/profile/u/105983943752299875545" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developers" width="40" height="40"/> Google Developers Profile
+</a> <br>
+<a href="https://skillshop.exceedlms.com/profiles/02c3c543a4444756a06e731e62acc6a5" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Skillshop" width="40" height="40"/> Skillshop Profile
+</a> <br>
+<a href="https://www.codechef.com/users/mani2310t" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/codechef/codechef-icon.svg" alt="CodeChef" width="40" height="40"/> CodeChef Profile
+</a> <br>
+<a href="http://www.cocubes.com/student/manichourasiya" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/cocubes/cocubes-icon.svg" alt="Cocubes" width="40" height="40"/> Cocubes Profile
+</a> <br>
+<a href="https://profile.codingninjas.com/7624ee56-a021-406c-8346-a2e9ed0f98d3" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/coding_ninjas/coding_ninjas-icon.svg" alt="Coding Ninjas" width="40" height="40"/> Coding Ninjas Profile
+</a> <br>
+<a href="https://auth.geeksforgeeks.org/user/user_yl41yau8l24" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/geeksforgeeks/geeksforgeeks-icon.svg" alt="GeeksforGeeks" width="40" height="40"/> GeeksforGeeks Profile
+</a> <br>
+<a href="https://infyspringboard.onwingspan.com/web/en/app/profile/dashboard" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/infosys/infosys-icon.svg" alt="Infosys Springboard" width="40" height="40"/> Infosys Springboard Profile
+</a> <br>
+<a href="https://github.com/Mani9516" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+</a>
+ </p>
+<br><br>
 </div>
 
 
