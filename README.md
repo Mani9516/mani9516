@@ -4,8 +4,6 @@
 <div size='20px'> Hi! I’m Mani Chourasiya, a final-year student currently pursuing a degree in Artificial Intelligence and Data Science. 😊
 </div>
 
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" height="22px"> </h2>
-
 <!-- Skill icons here with tooltips and hover effects -->
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=python&sort=" title="Python">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
