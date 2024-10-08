@@ -1,7 +1,7 @@
-<h1> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
+<h1> Hello World! 👋, I'm Mani Chourasiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 <p align='center'></p>
 
-<div size='20px'> Hi! I’m Mani Chourasiya, a final-year student currently pursuing a degree in Artificial Intelligence and Data Science. 😊
+<div size='20px'> Hi! I’m Mani Chourasiya, a final-year student currently pursuing a degree in Artificial Intelligence and Data Science. 😊a Passionate AI and DS Enthusiast from Indore | Coding and Collaborating on GitHub | Exploring My Path Through Continuous Learning
 </div>
 
 <!-- Skill icons here with tooltips and hover effects -->
@@ -33,11 +33,6 @@
   <img width="32px" src="https://cdn-icons-png.flaticon.com/512/4149/4149650.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
 </a>
 <br><br>
-<h1 align="center">Hello World!! 👋, I'm Khyati Verma</h1>
-<h3 align="center">a Passionate AI and DS Enthusiast from Indore | Coding and Collaborating on GitHub | Exploring My Path Through Continuous Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/vector-illustration-cartoon-cute-girl-programmer-coder-developer-designer_657235-204.jpg?w=360">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khyati2542&label=Profile%20views&color=0e75b6&style=flat" alt="khyati2542" /> </p>
 
 - 🔭 I’m currently working as an Data Science intern at **Talent Catalyst AI**
 
