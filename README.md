@@ -103,7 +103,6 @@
   <a href="https://leetcode.com/u/Mani9516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Mani9516/" height="30" width="40" /> 
   </a>
 <a href="https://discord.gg/manichourasiya123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manichourasiya123" height="30" width="40" /></a>
-</p>
 <a href="https://learn.microsoft.com/en-in/users/manichourasiya-6868/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Learn" width="40" height="40"/>
 </a> 
