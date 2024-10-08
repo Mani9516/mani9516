@@ -116,11 +116,6 @@
 <a href="https://skillshop.exceedlms.com/profiles/02c3c543a4444756a06e731e62acc6a5" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Skillshop" width="40" height="40"/>
 </a> 
-<a href="https://www.codechef.com/users/mani2310t" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/codechef/codechef-icon.svg" alt="CodeChef" width="40" height="40"/> CodeChef Profile
-<a href="https://infyspringboard.onwingspan.com/web/en/app/profile/dashboard" target="_blank">
-  <img src="https://www.google.com/imgres?q=infosys%20springboard&imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FFjga-fnKPNPSg1_3mVis70od3LrCSvrL1lmwl2123h_RJ4DxlUjCQLym05LqDapG2Q&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.infosysit.springboard%26hl%3Den_US&docid=nmrOIJmfNzf_4M&tbnid=fCLZgUOQGvf9xM&vet=12ahUKEwiai9Sl3f2IAxUtUGcHHQx6EmYQM3oECHsQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiai9Sl3f2IAxUtUGcHHQx6EmYQM3oECHsQAA" alt="Infosys Springboard" width="40" height="40"/> Infosys Springboard Profile
-</a> <br>
 <a href="https://github.com/Mani9516" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
 </a>
