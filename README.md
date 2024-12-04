@@ -12,9 +12,6 @@
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=html&sort=" title="HTML">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
 </a>
-<a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=javascript&sort=" title="JavaScript">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</a>
 <a href="https://github.com/Mani9516?tab=repositories&q=&type=&language=c&sort=" title="C Language">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
 </a>
