@@ -92,10 +92,6 @@
   <a href="mailto:your.email@manichourasiya9516@gmail.com">
     <img align="center" alt="Mani Chourasiya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> 
-  <a href="https://www.kaggle.com/manichourasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/manichourasiya" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/h51110304443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/h51110304443" height="30" width="40" />
-  </a>
   <a href="https://leetcode.com/u/Mani9516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Mani9516/" height="30" width="40" /> 
   </a>
 <a href="https://discord.gg/manichourasiya123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manichourasiya123" height="30" width="40" /></a>
