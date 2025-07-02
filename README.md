@@ -40,9 +40,11 @@
 
 - 📫 How to reach me **manichourasiya9516@gmail.com**
 
-- 🚀 See my work at [https://mani-chourasiya-sq8o.b12sites.com/](https://mani-chourasiya-sq8o.b12sites.com/)
+- 🚀 See my work at [https://mani-chourasiya-uafz.b12sites.com/](https://mani-chourasiya-uafz.b12sites.com/)
 
 -  😎 Head Placement Cell Coordinator At **PIEMR Indore**.
+  
+-  🌐 Associate at G10X 
 
 <p align="left">
 <!-- GitHub Stats -->
