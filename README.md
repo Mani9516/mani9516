@@ -105,9 +105,6 @@
 <a href="https://googlecloud.qwiklabs.com/public_profiles/2926c865-a061-4695-8712-47507315b3a8" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Qwiklabs" width="40" height="30"/>
 </a> 
-<a href="https://developers.google.com/profile/u/105983943752299875545" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developers" width="40" height="30"/> 
-</a> 
 <a href="https://skillshop.exceedlms.com/profiles/02c3c543a4444756a06e731e62acc6a5" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Skillshop" width="40" height="30"/>
 </a> 
