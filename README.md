@@ -75,10 +75,10 @@
 </p>
 
 <!-- Animated Visitor Counter -->
-<h3 align="center">📍 Live Profile Visitor Counter</h3>
+<!-- 📊 Visitor Pie Chart -->
+<h3 align="center">📊 Visitor Statistics (Pie Chart)</h3>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Mani9516/count.svg" alt="Visitor Count" />
-  <img src="https://raw.githubusercontent.com/Mani9516/Mani9516/main/assets/pulse.gif" width="30" alt="Live Indicator" />
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Visitors','Others'],datasets:[{data:[35,65]}]}}" alt="Visitor Pie Chart"/>
 </p>
 
 <!-- Social Links -->
