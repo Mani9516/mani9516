@@ -115,31 +115,7 @@
 
 <!-- Social Links -->
 <div align="center">
-  <h3><b>😄 Connect With Me</b></h3>
-  <a href="https://www.linkedin.com/in/mani-chourasiya-119433238/" target="_blank">
-    <img align="center" alt="Mani Chourasiya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/sphnix_23" target="_blank">
-    <img align="center" alt="Mani Chourasiya | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:your.email@manichourasiya9516@gmail.com">
-    <img align="center" alt="Mani Chourasiya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> 
-  <a href="https://leetcode.com/u/Mani9516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Mani9516/" height="30" width="40" /> 
-  </a>
-<a href="https://discord.gg/manichourasiya123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manichourasiya123" height="30" width="40" /></a>
-<a href="https://learn.microsoft.com/en-in/users/manichourasiya-6868/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Learn" width="40" height="30"/>
-</a> 
-<a href="https://github.com/Mani9516" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="30"/>
-</a>
- </p>
-<br><br>
-</div>
-
-
-
+  <h3>
 
 <!-- Social Links -->
 <div align="center">
