@@ -74,11 +74,10 @@
   <img src="https://github.com/disha1202/disha1202/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<!-- Profile Visitor Counter -->
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
   <p align="center">
-    <img src="https://profile-counter.glitch.me/Mani9516/count.svg" />
+    <img src="https://profile-counter.glitch.me/Mani9516/count.svg" alt="Visitor Counter" />
   </p>
 </div>
 
