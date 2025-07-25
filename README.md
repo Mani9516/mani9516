@@ -78,8 +78,9 @@
 <h3 align="center">👁️ GitHub Profile Visitor Counter</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Mani9516/count.svg" alt="Visitor Counter" />
+  <img src="https://profile-counter.glitch.me/Mani9516/count.svg" alt="GitHub Profile Visitor Counter" />
 </p>
+
 
 
 <!-- Social Links -->
