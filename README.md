@@ -75,6 +75,12 @@
 </p>
 
 <!-- Animated Visitor Counter -->
+<h3 align="center">📍 Live Profile Visitor Counter</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Mani9516/count.svg" alt="Visitor Count" />
+  <img src="https://raw.githubusercontent.com/Mani9516/Mani9516/main/assets/pulse.gif" width="30" alt="Live Indicator" />
+</p>
+
 <!-- Social Links -->
 <div align="center">
   <h3>
