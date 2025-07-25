@@ -73,10 +73,13 @@
 <p align="center">
   <img src="https://github.com/disha1202/disha1202/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-<!-- GitHub Profile Visitor Counter -->
+
+<!-- Animated GitHub Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mani9516&label=Profile%20views&color=0e75b6&style=flat" alt="Mani9516's GitHub visitor counter" />
+  <img src="https://profile-counter.glitch.me/Mani9516/count.svg" alt="Visitors" />
+  <img src="https://github.com/Mani9516/Mani9516/blob/main/animated-eye.gif?raw=true" width="30" alt="animated eye" />
 </p>
+
 
 
 <!-- Social Links -->
