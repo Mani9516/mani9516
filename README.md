@@ -74,12 +74,13 @@
   <img src="https://github.com/disha1202/disha1202/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<!-- Animated Visitor Counter -->
-<!-- 📊 Visitor Pie Chart -->
-<h3 align="center">📊 Visitor Statistics (Pie Chart)</h3>
+<!-- 👁️ GitHub Profile Visitor Counter -->
+<h3 align="center">👁️ GitHub Profile Visitor Counter</h3>
+
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Visitors','Others'],datasets:[{data:[35,65]}]}}" alt="Visitor Pie Chart"/>
+  <img src="https://profile-counter.glitch.me/Mani9516/count.svg" alt="Visitor Counter" />
 </p>
+
 
 <!-- Social Links -->
 <div align="center">
