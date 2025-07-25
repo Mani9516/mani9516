@@ -75,44 +75,6 @@
 </p>
 
 <!-- Animated Visitor Counter -->
-<h1> Hello World! , I'm Mani Chourasiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
-<p align='center'></p>
-<br>
-<div size='20px'> 
-<p align="left">
-<!-- GitHub Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani9516&show_icons=true&locale=en&theme=radical" alt="Mani9516" />
-</p>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mani9516&theme=radical" alt="Mani9516" />
-</p>
-
-<!-- Language Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mani9516&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" />
-</p>
-
-<!-- Profile Summary -->
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mani9516&theme=radical" />
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/disha1202/disha1202/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<!-- Animated Visitor Counter -->
-<h3 align="center">📍 Live Profile Visitor Counter</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Mani9516/count.svg" alt="Visitor Count" />
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="40" alt="Live Counter Pulse" />
-</p>
-
-
 <!-- Social Links -->
 <div align="center">
   <h3>
