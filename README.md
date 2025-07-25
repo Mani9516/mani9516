@@ -74,12 +74,12 @@
   <img src="https://github.com/disha1202/disha1202/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<!-- Animated GitHub Visitor Counter -->
+<!-- Animated Visitor Counter -->
+<h3 align="center">📍 Live Profile Visitor Counter</h3>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Mani9516/count.svg" alt="Visitors" />
-  <img src="https://github.com/Mani9516/Mani9516/blob/main/animated-eye.gif?raw=true" width="30" alt="animated eye" />
+  <img src="https://profile-counter.glitch.me/Mani9516/count.svg" alt="Visitor Count" />
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="40" alt="Live Counter Pulse" />
 </p>
-
 
 
 <!-- Social Links -->
