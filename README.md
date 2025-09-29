@@ -42,8 +42,7 @@
 
 - 📫 How to reach me **manichourasiya9516@gmail.com**
 
-- 🚀 See my work at [https://blue-matrix.preview.emergentagent.com/]
-(https://blue-matrix.preview.emergentagent.com/)
+- 🚀 See my work at [https://blue-matrix.preview.emergentagent.com/](https://blue-matrix.preview.emergentagent.com/)
 
 -  😎 Head Placement Cell Coordinator At **PIEMR Indore**.
   
