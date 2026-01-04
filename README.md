@@ -61,10 +61,7 @@
 
 <p align="left">
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mani9516&theme=radical" alt="Mani9516" />
-</p>
+
 
 <!-- Language Stats -->
 <p align="center">
