@@ -1,4 +1,4 @@
-<h1> Hello World! , I'm Mani Chourasiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
+<h1> Hello! , I'm Mani Chourasiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 <p align='center'></p>
 <br>
 <div size='20px'> Hi! I’m Mani Chourasiya, a final-year student currently pursuing a degree in Artificial Intelligence and Data Science. A Passionate AI and DS Enthusiast ,| Coding and Collaborating on GitHub | Exploring My Path Through Continuous Learning😊
@@ -46,7 +46,18 @@
 
 -  😎 Head Placement Cell Coordinator At **PIEMR Indore**.
   
--  🌐 Associate at G10X 
+-  🌐 Associate at G10X
+-  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mani9516&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mani9516&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani9516&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mani9516&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mani9516&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <p align="left">
 <!-- GitHub Stats -->
