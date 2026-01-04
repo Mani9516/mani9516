@@ -64,14 +64,7 @@
 
 
 <!-- Language Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mani9516&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" />
-</p>
 
-<!-- Profile Summary -->
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mani9516&theme=radical" />
-</p>
 
 <!-- Snake Animation -->
 <p align="center">
